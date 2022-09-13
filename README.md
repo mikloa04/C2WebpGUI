@@ -2,7 +2,8 @@
 ### Simple webp encoding tool GUI
 This is a simple GUI for WebP encoding tool provided by Google.
 
-![screenshot](https://github.com/samcpt/webPGUI/blob/master/screenshots/webp_0000_Layer-1.png)
+![screenshot](https://github.com/mikloa04/C2WebpGUI/blob/main/screenshots/ss_01.jpg)
+![screenshot](https://github.com/mikloa04/C2WebpGUI/blob/main/screenshots/ss_02.jpg)
 
 ## Credits
 - Developed by: mikloa04
