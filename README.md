@@ -7,7 +7,7 @@ This is a simple GUI for WebP encoding tool provided by Google.
 
 ## Credits
 - Developed by: mikloa04
-- Includes cwebp.exe encoding tool v.0.5.0 - Copyright (c) 2010, Google Inc
+- Includes cwebp.exe encoding tool v1.2.4 - Copyright (c) 2022, Google Inc
 
 ## License
 The MIT License (MIT)
